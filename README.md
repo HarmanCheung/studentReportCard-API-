@@ -70,7 +70,7 @@
 
 修改自己实现的学生成绩单（Web版），要求：
 
-- 将所有数据存储操作从localStorage替换为向学生管理服务器发送[AJAX](https://www.w3schools.com/xml/ajax_xmlhttprequest_send.asp) API请求
+- 将所有数据存储操作从localStorage替换为向学生管理API服务器发送[AJAX](https://www.w3schools.com/xml/ajax_xmlhttprequest_send.asp)请求
 
 ### 输出结果
 
