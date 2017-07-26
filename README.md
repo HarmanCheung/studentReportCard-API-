@@ -70,7 +70,7 @@
 
 修改自己实现的学生成绩单（Web版），要求：
 
-- 将所有数据存储操作从localStorage替换为向学生管理API服务器发送[AJAX](https://www.w3schools.com/xml/ajax_xmlhttprequest_send.asp)请求
+- 将所有数据存储操作从localStorage替换为向学生管理API服务器发送[AJAX](http://www.w3school.com.cn/ajax/ajax_intro.asp)请求
 
 ### 输出结果
 
@@ -97,6 +97,6 @@ RESTful API 设计指南：[http://www.ruanyifeng.com/blog/2014/05/restful_api.h
 
 JSON语法：http://www.w3school.com.cn/json/json_syntax.asp
 
-如何用Javascript发AJAX请求：[https://www.w3schools.com/xml/ajax_xmlhttprequest_send.asp](https://www.w3schools.com/xml/ajax_xmlhttprequest_send.asp)
+AJAX教程：[http://www.w3school.com.cn/ajax/ajax_intro.asp](http://www.w3school.com.cn/ajax/ajax_intro.asp)
 
 JavaScript 闯关记：[https://github.com/stone0090/javascript-lessons/](https://github.com/stone0090/javascript-lessons/)
