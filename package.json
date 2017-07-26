@@ -1,0 +1,23 @@
+{
+  "name": "student-score-sheet-api-version",
+  "version": "1.0.0",
+  "description": "## 练习目标",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tws-practice/student-score-sheet-api-version.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tws-practice/student-score-sheet-api-version/issues"
+  },
+  "homepage": "https://github.com/tws-practice/student-score-sheet-api-version#readme",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "redis": "^2.7.1"
+  }
+}

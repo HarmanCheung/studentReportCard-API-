@@ -83,9 +83,11 @@
 
 ## 如何开始：
 
-1. `git clone https://github.com/tws-practice/student-score-sheet-api-version`
-2. `npm install`
-3. 打开项目文件，完成练习。
+1. 克隆项目代码：`git clone https://github.com/tws-practice/student-score-sheet-api-version`
+2. （Ubuntu下）安装redis： `apt-get install redis-server`
+3. 安装express.js：`npm install`
+4. 运行redis：`redis-server`
+5. 打开项目文件，完成练习。
 
 ## 学习资源
 
