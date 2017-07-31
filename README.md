@@ -10,7 +10,7 @@
 
 ## 练习要求
 
-使用[Express.js](http://www.runoob.com/nodejs/nodejs-express-framework.html)实现一个学生成绩管理系统的REST API服务器（以[Redis](https://www.w3cschool.cn/redis/)为数据存储），重构自己实现的[学生成绩单（Web版）](https://github.com/tws-practice/student-score-sheet-web-version)，以实现一个CS架构（Web端+服务端）的学生成绩管理系统，具有以下功能：
+使用[apiexpress.js](http://www.runoob.com/nodejs/nodejs-express-framework.html)实现一个学生成绩管理系统的REST API服务器（以[Redis](https://www.w3cschool.cn/redis/)为数据存储），重构自己实现的[学生成绩单（Web版）](https://github.com/tws-practice/student-score-sheet-web-version)，以实现一个CS架构（Web端+服务端）的学生成绩管理系统，具有以下功能：
 
 - 添加一条学生成绩信息
 - 查询多个学生成绩信息
